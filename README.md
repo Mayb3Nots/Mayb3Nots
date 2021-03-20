@@ -12,5 +12,5 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I never learned anything usefull tech related from school ^^
 
-<img src = "https://github-readme-stats.vercel.app/api?username=Mayb3Nots&&show_icons=true&title_color=ffffff&icon_color=FFFFFF&text_color=FFFFFF&bg_color=30,AA076B,61045F&custom_title=My Github Stats" />
+<img src = "https://github-readme-stats.vercel.app/api?username=Mayb3Nots&&show_icons=true&title_color=ffffff&icon_color=FFFFFF&text_color=FFFFFF&bg_color=30,AA076B,61045F&custom_title=My Github Stats&count_private=true" />
 
