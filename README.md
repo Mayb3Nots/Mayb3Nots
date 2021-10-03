@@ -20,11 +20,6 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mayb3Nots" alt="Mayb3Nots" /></a> </p>
-
-
-
-
 <img src = "https://github-readme-stats.vercel.app/api?username=Mayb3Nots&&show_icons=true&title_color=ffffff&icon_color=FFFFFF&text_color=FFFFFF&bg_color=30,AA076B,61045F&custom_title=My Github Stats&count_private=true" />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mayb3Nots&" alt="Mayb3Nots" /></p>
